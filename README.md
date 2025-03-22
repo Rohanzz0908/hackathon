@@ -29,5 +29,3 @@ Peacepoint is a web application that offers various therapies to help people man
 - 📝 **Contact Form:** Reach out for personalized guidance.
 
 ---
-
-## 📂 **Folder Structure**
